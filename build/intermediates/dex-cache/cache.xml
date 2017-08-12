@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vbn001/CarTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vbn001/CarTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ed6ccb21f770e681dfb9635b95500473c95e7c26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vbn001/.android/build-cache/22d3c2afa800efb13d786ef71b2fc033c1126e63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ce954b1986439145a3439625818971dc5b8dc8d">
+        <dex dex="/Users/vbn001/CarTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_654ddc700a9990c585710a4e46be6441c3c1a31f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vbn001/CarTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8952726fe2e9c64267b75ba36bc9e271b596249">
+        <dex dex="/Users/vbn001/CarTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cd8df6c35cd31cb22aab38fcc6ee08fa9f33fadd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vbn001/.android/build-cache/1b6148b1b9160fc0e82a102a475551f018012357/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/vbn001/CarTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee4c245987e2b32a3a996c81ec19fde122fbd600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vbn001/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/vbn001/CarTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_fba93f05b520aa1bd7b1ca32272f50172ab8048c/classes.dex" />
+    </item>
+
+</items>
